@@ -1,0 +1,46 @@
+<resources>
+    <string
+        name="app_name">Quiz App</string>
+    <string-array
+        name="questions">
+        <item
+            >"What are Durins folk, more commonly known as?"</item>
+        <item
+            >Who partecipate in the Battle of Isengard?</item>
+        <item
+            >What is the name of the Uruk-hai leader, second only to Saruman?</item>
+        <item
+            >How many are the original members of the Fellowship?</item>
+        <item
+            >Which is the name of Gandalf white horse?</item>
+        <item
+            >What are Morgul wounds?</item>
+    </string-array>
+    <string-array name="answers">
+        <item
+            >Hobbits from outside The Shire
+        </item>
+        <item
+            >Dwarves</item>
+        <item
+            >Great Eagles</item>
+        <item
+            >"Saruman's forces"</item>
+        <item
+            >Gimli and Legolas</item>
+        <item
+            >Ents</item>
+        <item
+            >7</item>
+        <item
+            >8</item>
+        <item
+            >9</item>
+        <item
+            >The name given to an Elf who has given up its immortality.</item>
+        <item
+            >The corrupt mounds of earth from which Uruk-hai are born.</item>
+        <item
+            >Wounds inflicted by the Nazgûl.</item>
+    </string-array>
+</resources>
